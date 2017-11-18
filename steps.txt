@@ -1,0 +1,28 @@
+create dir proj
+cd proj
+npm init -y
+npm install --save-dev babel-cli
+npm install --save express
+npm install --save-dev babel-preset-es2015
+npm install --save-dev nodemon
+npm install --save react react-dom
+npm install --save-dev webpack webpack-dev-middleware
+npm install --save-dev babel-loader
+npm install --save-dev babel-preset-react
+
+npm install --save-dev react-hot-loader webpack-hot-middleware
+npm install react-router --save
+npm install loadash --save
+npm install --save axios
+npm install --save redux react-redux redux-thunk
+npm install --save validator
+npm install --save classname
+npm install --save shortid
+npm install --save knox
+dna$ npm install -g knox
+npm install --save bcrypt
+npm install --save jsonwebtoken
+/*when run: npm run server*/
+/*git ignore when git*/
+.DS_Store
+node_modules

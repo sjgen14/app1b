@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin-t",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ce",
+				"cellpadding\tAttr"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dna/Desktop/webstorm&phpstormLinkActivate",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/server/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/server/AuthManager.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/server/resetdb.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/client/app.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/assets/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/reacrethinkdb/react-rethinkdb/examples/chat/client/AuthWrapper.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/reducers/auth.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/reducers/auth.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/auth.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/components/App.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/components/Editor.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/components/Login.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/App.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/middleware.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/agent.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/store.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/React-Redux-Boilerplate/twillio",
+		"/Users/dna/Desktop/createfunc_jek.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3res_bck/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/template/indexlogin.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/middleware.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/components/ListErrors.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/reducers/articleList.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/reducer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/template/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/store_.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/articleList.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/src/middleware.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/app1/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/store.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/reducer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/reducers/settings.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/components/app.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/components/todoList.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/components/addTodo.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Register.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/reducers/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/components/index.jsx",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/actions/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/login.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/indexlogin.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/3res_bck/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/node_modules/webpack-dev-server/client/webpack.config.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Home/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3res/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/agent.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/3RES-Stack-Sample-App/socket-events.js",
+		"/Users/dna/Desktop/jscommand",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/settings.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Login.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/home.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/editor.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/reducers/article.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/constants/actionTypes.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Home/Banner.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Home/MainView.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/public/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/src/App.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/src/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud copy/redux/src/components/Login.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/src/App.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/src/bootstrap/js/jquery.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/tictac/index.html",
+		"/Users/dna/Desktop/mcomd.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/src/index.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/react/training/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/tictac/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/public/main.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/ArticlePreview.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/CommentContainer.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/App.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/package-lock.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/build/asset-manifest.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/DeleteButton.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/CommentInput.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/ArticleMeta.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/Comment.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Article/ArticleActions.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/ArticleList.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/tictac/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/tictac/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/composition.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/react/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/r1/react-yelp-clone/src/routes.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/r1/react-yelp-clone/src/views/Main/routes.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/build/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/build/static/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Header.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/react/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/src/components/Editor.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/training_/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/es6tu/js/main.js",
+		"/Users/dna/Desktop/projects/project.02/views/index.jade",
+		"/Users/dna/Desktop/projects/project.02/public/less/carousel.less",
+		"/Users/dna/Desktop/projects/project.02/ljp.html",
+		"/Volumes/SambaFS/Ralph/LJP/LJP picture app/style.css",
+		"/Volumes/SambaFS/Ralph/LJP/LJP picture app/ljp.html",
+		"/Users/dna/Desktop/projects/project.02/style.css",
+		"/Users/dna/Desktop/projects/project.02/public/less/custom.less",
+		"/Users/dna/Desktop/projects/project.02/public/css/main.css",
+		"/Users/dna/Desktop/projects/project.02/public/less/base.less",
+		"/Users/dna/.Trash/proj1_/less/base.less",
+		"/Users/dna/.Trash/proj1_/less/homepage.less",
+		"/Users/dna/Desktop/projects/project.02/public/css/style.css",
+		"/Users/dna/Desktop/projects/project.02/public/less/carousel.scss",
+		"/Users/dna/Desktop/projects/project.01/index.html",
+		"/Users/dna/Desktop/projects/proj1/css/materialize.min.css",
+		"/Users/dna/Desktop/projects/proj1/css/style.css.map",
+		"/Users/dna/Desktop/projects/proj1/css/style-backup.css",
+		"/Users/dna/Desktop/projects/proj1/scss/base.scss",
+		"/Users/dna/Desktop/projects/proj1_/less/homepage.less"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/react/training/crud/redux/src",
+			"/Applications/XAMPP/xamppfiles/htdocs/react/training",
+			"/Applications/XAMPP/xamppfiles/htdocs/training/crud/",
+			"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/",
+			"/Applications/XAMPP/xamppfiles/htdocs/training/crud/redux/build/static"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ListErrors",
+			"PROFILE_FAVORITES_PAGE_LOADED",
+			"PROFILE_FAVORITES_PAGE_LOADED\n",
+			"article",
+			"agent",
+			"class=\"",
+			"className=\"",
+			".name",
+			"3res",
+			"development",
+			".name",
+			"action.payload = error.response.body",
+			"action.payload = error.response.body;",
+			"body",
+			"bootstrap",
+			"App-header",
+			"orange",
+			"#5CB85C",
+			"#3d8b3d",
+			"#3d8b3d\n",
+			"main.css",
+			"condu",
+			"title",
+			"cond",
+			"coduit",
+			"condul",
+			"condui",
+			"cond",
+			"condul",
+			"json",
+			": ",
+			"toLowerCase",
+			";</",
+			"nav",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className=\"",
+			"class=\"",
+			"gray",
+			"orange"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/projects/project.01/projects_ian.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
